@@ -1,0 +1,2 @@
+rootProject.name='TechQuotes'
+include ':app'
